@@ -1,4 +1,4 @@
-# Sample Snack app
+# Flower shop app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
@@ -9,3 +9,7 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+![Figma React Native Desgin 1](https://github.com/LabridTech/flower-shop/assets/146828571/28144b87-34c1-405b-b3bf-f8c2303789c4)
+![Screenshot 2024-02-04 102305](https://github.com/LabridTech/flower-shop/assets/146828571/c89a213d-a518-47eb-beab-9a12b11d47da)
+![Screenshot 2024-02-04 102350](https://github.com/LabridTech/flower-shop/assets/146828571/35025a24-b962-403a-b695-795ff458bc0f)
