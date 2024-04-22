@@ -6,10 +6,6 @@ When you're ready to see everything that Expo provides (or if you want to use yo
 
 All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-
 ![Figma React Native Desgin 1](https://github.com/LabridTech/flower-shop/assets/146828571/28144b87-34c1-405b-b3bf-f8c2303789c4)
 ![Screenshot 2024-02-04 102305](https://github.com/LabridTech/flower-shop/assets/146828571/c89a213d-a518-47eb-beab-9a12b11d47da)
 ![Screenshot 2024-02-04 102350](https://github.com/LabridTech/flower-shop/assets/146828571/35025a24-b962-403a-b695-795ff458bc0f)
